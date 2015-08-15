@@ -1,6 +1,6 @@
 # dotfiles_vim
 
-vim configuration file
+This is a vim configuration file.
 
 ## Usage
 
